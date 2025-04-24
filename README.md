@@ -22,6 +22,7 @@ Deep Neural Network (DNN)
   - ReLU activation Function
   - Adam Optimizer 0.001 Learning Rate
   - MSE Loss Function
+
 Long Short-Term Memory (LSTM)
   - 3 Layers
   - 512 cells per layer
